@@ -2,7 +2,7 @@
 
 function CtoF(celsius){
     let fahrenheit;
-    fahrenheit = celsius * (9/5) + 32  +"Degree Fahernheit";
+    fahrenheit = celsius * (9/5) + 32  +" Degree Fahernheit";
     return fahrenheit;
 }
 
@@ -11,6 +11,6 @@ function CtoF(celsius){
 /*   
 CtoF(10);
 
-Result = 10degrees Fahrenheit
+Result = 10 Degree Fahrenheit
 
 */
